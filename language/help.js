@@ -7,7 +7,7 @@
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
-	return`Selamat ${salam} kak ${pushname}
+	return`Selamat ${salam} bro ${pushname}
 
 Saya ${botname}, Bot Ini Sangat GG Gimang.
 Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Bro, Lapor Owner Agar Segera DiFix jan bilang jelek kon`
@@ -447,7 +447,7 @@ exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
 
-Hai bro ☺️ 
+Hai bro 🗿 
 Kalian bisa mendukung kami agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti ye
 
