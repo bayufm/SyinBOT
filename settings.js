@@ -83,13 +83,13 @@ global.sp = '⭔'
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
 success: '_Done._',
-admin: '_Fitur Khusus Admin Group!_',
-botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
+admin: '_Fitur Khusus Admin Group Dek!_',
+botAdmin: '_Bot Belum dijadiin admin gblk!_',
 owner: '_Fitur Khusus Owner Bot_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
+wait: '_Lagi loading Coy..._',
 error: '_Fitur Sedang Error!_',
 endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
 }
