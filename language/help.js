@@ -9,13 +9,13 @@
 exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
-Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Saya ${botname}, Bot Ini Sangat GG Gimang.
+Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Bro, Lapor Owner Agar Segera DiFix jan bilang jelek kon`
 }
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
-	return`Halo kak ${pushname}, silahkan dipilih list menu dibawah ini`
+	return`Halo bro ${pushname}, Ini sir list menu dibawah ini`
 }
 
 //—————「 All Menu 」—————//
@@ -447,9 +447,9 @@ exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-Berapapun donasi kalian akan sangat berarti 👍
+Hai bro ☺️ 
+Kalian bisa mendukung kami agar bot ini tetap up to date dengan cara donasi
+Berapapun donasi kalian akan sangat berarti ye
 
 Thanks!
 
@@ -953,14 +953,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* -
+  *≻* -
 `
 }
